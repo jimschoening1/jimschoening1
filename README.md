@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimschoening1
-- 👀 I’m interested in Learning Technology
-- 💞️ I’m looking to collaborate on educational games.
+- 👀 I’m interested in Data Science, standard Ontologies, Learning Technology, Data Privacy, etc. 
+- 💞️ I’m looking to collaborate on topics listed above.
 - 📫 How to reach me ... james.schoening@ieee.org
 
 <!---
