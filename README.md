@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimschoening1
-- 👀 I’m interested in Data Science, standard Ontologies, Learning Technology, Data Privacy, etc. 
+- 👀 I’m interested in Ethical Freelancing, Data Science, standard Ontologies, Learning Technology, Data Privacy, etc. 
 - 💞️ I’m looking to collaborate on topics listed above.
 - 📫 How to reach me ... james.schoening@ieee.org
 
